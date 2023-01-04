@@ -34,7 +34,7 @@ class ReachabilityTests: XCTestCase {
     }
     
     func testValidHost() {
-        let validHostName = "yahoo.com"
+        let validHostName = "google.com"
         
         guard let reachability = Reachability(hostname: validHostName) else {
             return XCTFail("Unable to create reachability")
