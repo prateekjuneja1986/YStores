@@ -22,6 +22,7 @@ class MainCoordinator: Coordinator {
         let productListViewController = NavigationLocator.productList.getNavigationController() as! ProductListViewController
         productListViewController.coordinator = self
         navigationController = UINavigationController(rootViewController: productListViewController)
+        navigationController?.navigationBar.isHidden = true
         return navigationController!
     }
 
