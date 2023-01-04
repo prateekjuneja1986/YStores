@@ -32,12 +32,10 @@ Project Architectural Details:
 
 ScreenShots:
 
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-04 at 22 30 13](https://user-images.githubusercontent.com/64911146/210609254-f2a3ab7f-4840-4eaf-8081-84d969eb61db.png)
 
-![Simulator Screen Shot - iPhone 12 - 2022-12-24 at 23 40 26](https://user-images.githubusercontent.com/64911146/209447203-6e555cf6-5fcb-41e8-a8ae-3c173c2c37eb.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-04 at 22 24 23](https://user-images.githubusercontent.com/64911146/210609337-48fc66a2-d29f-4725-9d7b-a01f2709e041.png)
 
-
-
-![Simulator Screen Shot - iPhone 12 - 2022-12-24 at 23 40 33](https://user-images.githubusercontent.com/64911146/209447198-2364853b-2bca-44c1-a6d5-88e3b3b64b2c.png)
 
 
 SwiftLint:
