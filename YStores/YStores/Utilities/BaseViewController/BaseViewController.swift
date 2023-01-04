@@ -32,7 +32,7 @@ class BaseViewController: UIViewController {
     // MARK: - Activity Indicator Methods
     func startIndicatorAnimating() {
         if activityIndicator == nil {
-            activityIndicator = UIActivityIndicatorView(frame: CGRectMake(0,0,40,40))
+            activityIndicator = UIActivityIndicatorView(frame: CGRect(x: 0,y: 0,width: 40,height: 40))
             activityIndicator?.center = self.view.center
             activityIndicator?.hidesWhenStopped = true
             activityIndicator?.style = .large
