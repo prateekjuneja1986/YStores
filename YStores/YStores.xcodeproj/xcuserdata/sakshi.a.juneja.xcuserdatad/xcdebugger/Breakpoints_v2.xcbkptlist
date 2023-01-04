@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9AC8586C-DA2C-4426-8EDA-D018A2E30BF8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "481560DD-D818-41BF-A4DC-146E7A8540CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YStores/Utilities/JsonReader/JsonReader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "readJSONFrom(fileName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "481560DD-D818-41BF-A4DC-146E7A8540CB - 3c8e46bc123c86e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static YStores.JsonReader.readJSONFrom(fileName: Swift.String) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "YStores"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshi.a.juneja/Downloads/YStores-main/YStores/YStores/Utilities/JsonReader/JsonReader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "481560DD-D818-41BF-A4DC-146E7A8540CB - 3c8e46bc123c86e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static YStores.JsonReader.readJSONFrom(fileName: Swift.String) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "YStores"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshi.a.juneja/Downloads/YStores-main/YStores/YStores/Utilities/JsonReader/JsonReader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "481560DD-D818-41BF-A4DC-146E7A8540CB - 9fe707a053b24dc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static YStoresTests.JsonReader.readJSONFrom(fileName: Swift.String) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "YStoresTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshi.a.juneja/Downloads/YStores-main/YStores/YStores/Utilities/JsonReader/JsonReader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "481560DD-D818-41BF-A4DC-146E7A8540CB - 9fe707a053b24dc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static YStoresTests.JsonReader.readJSONFrom(fileName: Swift.String) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "YStoresTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshi.a.juneja/Downloads/YStores-main/YStores/YStores/Utilities/JsonReader/JsonReader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81429161-685E-431C-B3FC-EBA0DFFC060C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YStores/Utilities/JsonReader/JsonReader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "readJSONFrom(fileName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "81429161-685E-431C-B3FC-EBA0DFFC060C - 3c8e46bc123c872d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static YStores.JsonReader.readJSONFrom(fileName: Swift.String) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "YStores"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshi.a.juneja/Downloads/YStores-main/YStores/YStores/Utilities/JsonReader/JsonReader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "81429161-685E-431C-B3FC-EBA0DFFC060C - 9fe707a053b24c0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static YStoresTests.JsonReader.readJSONFrom(fileName: Swift.String) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "YStoresTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshi.a.juneja/Downloads/YStores-main/YStores/YStores/Utilities/JsonReader/JsonReader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "872">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F494BFFF-D76C-4A86-B9E4-E7ACD84BCF36"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "YStores/Utilities/JsonReader/JsonReader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "readJSONFrom(fileName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F494BFFF-D76C-4A86-B9E4-E7ACD84BCF36 - 3c8e46bc123c87a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static YStores.JsonReader.readJSONFrom(fileName: Swift.String) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "YStores"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshi.a.juneja/Downloads/YStores-main/YStores/YStores/Utilities/JsonReader/JsonReader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1572">
+               </Location>
+               <Location
+                  uuid = "F494BFFF-D76C-4A86-B9E4-E7ACD84BCF36 - 9fe707a053b24c89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static YStoresTests.JsonReader.readJSONFrom(fileName: Swift.String) -&gt; Swift.Optional&lt;Any&gt;"
+                  moduleName = "YStoresTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sakshi.a.juneja/Downloads/YStores-main/YStores/YStores/Utilities/JsonReader/JsonReader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
